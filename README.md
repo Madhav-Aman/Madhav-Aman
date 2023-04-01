@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif)]
+![MasterHead](https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif)
 <h1 align="center">Hi 👋, I'm Madhav Aman Srivastava</h1>
 <h3 align="center">• Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.<br> • Strong with intuitive problem-solving skills.<br> • Having good knowledge in Java , OOP and SQL.<br> • Passionate about implementing and launching new projects and new technologies.<br> • Ability to translate business requirements into technical solutions</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
