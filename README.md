@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Uni-DB**
 
-- 🌱 I’m currently learning **Web-Designing, Flutter framework**
+- 🌱 I’m currently learning **Spring Boot, Spring Data Jpa, Spring Security, GitHub, MySQL, MongoDB, Flutter framework**
 
-- 💬 Ask me about **Flutter Framework, Java**
+- 💬 Ask me about **Flutter Framework, Java, Spring-Boot**
 
 - 📫 How to reach me **madhavaman03@gmail.com**
 
